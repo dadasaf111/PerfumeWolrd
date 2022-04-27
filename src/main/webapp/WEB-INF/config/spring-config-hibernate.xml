@@ -18,7 +18,7 @@
     <bean id="dataSource"
           class="org.springframework.jdbc.datasource.DriverManagerDataSource"
           p:driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
-          p:url="jdbc:sqlserver://localhost:1433;database=toyZoneDB;useUnicode=yes;characterEncoding=UTF-8;"
+          p:url="jdbc:sqlserver://localhost:1433;database=perfumeWorldDB;useUnicode=yes;characterEncoding=UTF-8;"
           p:username="sa"
           p:password="sapassword">
     </bean>

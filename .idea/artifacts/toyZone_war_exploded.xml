@@ -1,17 +1,17 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="toyZone:war exploded">
-    <output-path>$PROJECT_DIR$/target/toyZone-0.0.1-SNAPSHOT</output-path>
+  <artifact type="exploded-war" name="perfumeWorld:war exploded">
+    <output-path>$PROJECT_DIR$/target/perfumeWorld-0.0.1-SNAPSHOT</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
-        <module>toyZone</module>
+        <module>perfumeWorld</module>
         <packaging>war</packaging>
       </options>
     </properties>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="toyZone" />
+          <element id="module-output" name="perfumeWorld" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.13.RELEASE" />
@@ -95,9 +95,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/toyZone-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/perfumeWorld-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="toyZone/web/Web" />
+      <element id="javaee-facet-resources" facet="perfumeWorld/web/Web" />
     </root>
   </artifact>
 </component>

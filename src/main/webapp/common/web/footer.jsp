@@ -43,8 +43,8 @@
             <div class="col-md-3 ftr-grid">
                 <h3>Tài khoản</h3>
                 <ul class="nav-bottom">
-                    <li><a href="http://localhost:8080/toyZone/login">Đăng nhập</a></li>
-                    <li><a href="http://localhost:8080/toyZone/register">Đăng ký</a></li>
+                    <li><a href="http://localhost:8080/perfumeWorld/login">Đăng nhập</a></li>
+                    <li><a href="http://localhost:8080/perfumeWorld/register">Đăng ký</a></li>
                 </ul>
             </div>
             <div class="col-md-3 ftr-grid">
